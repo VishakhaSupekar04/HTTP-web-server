@@ -162,7 +162,7 @@ The Web server program can be executed from terminal , Chrome or postman
 				status code will be displayed on the right side of the Response window.
 				
 
-Authors
+Author
 
 Vishakha Supekar
 
