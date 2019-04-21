@@ -1,4 +1,7 @@
 ##### Windows
+
+sample-files-for-testing/* linguist-vendored
+
 # Windows thumbnail cache files
 Thumbs.db
 ehthumbs.db
