@@ -1,5 +1,5 @@
 * text=auto
-
+sample-files-for-testing/* linguist-vendored
 ###### Git
 .gitattributes text
 .gitignore text
